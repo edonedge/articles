@@ -1,3 +1,7 @@
-.distill-site-nav {
-  background-color: #0092ca;
+.distill-site-nav a {
+  color: #FFFFFF;
+}
+
+.distill-site-nav a:hover {
+  text-shadow: 0px 0px 2px #FFFFFF;
 }
