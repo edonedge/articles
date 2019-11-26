@@ -1,32 +1,17 @@
 [
   {
-    "path": "posts/2019-11-02-tesla-annual-maintenance/",
-    "title": "Tesla Annual Maintenance",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Ed Kim",
-        "url": "https://edonedge.github.io/blog/"
-      }
-    ],
-    "date": "2019-11-02",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-05T00:49:57-08:00"
-  },
-  {
     "path": "posts/welcome/",
-    "title": "Welcome to edonedge",
-    "description": "Welcome to our new blog, edonedge. We hope you enjoy \nreading what we have to say!",
+    "title": "Welcome to Ed on Edge",
+    "description": "Welcome to our new blog, Ed on Edge. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
         "name": "Nora Jones",
         "url": "https://example.com/norajones"
       }
     ],
-    "date": "2019-11-01",
+    "date": "2019-11-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-05T00:51:57-08:00"
+    "last_modified": "2019-11-26T15:48:53-08:00"
   }
 ]

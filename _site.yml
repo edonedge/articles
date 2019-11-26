@@ -1,0 +1,26 @@
+name: "edonedge"
+title: "Ed on Edge"
+description: |
+  Articles of Ed who loves math, data science, machine learning, and tesla
+base_url: https://edonedge.github.io/articles/
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - icon: fa fa-coffee
+      href: "#"
+    - icon: fa fa-rss
+      href: index.xml
+collections:
+  posts:
+    disqus: edonedge
+    share: [twitter, linked]
+    # subscribe: _subscribe.html
+    # citations: false
+output: 
+  distill::distill_article:
+    css: style.css
+
