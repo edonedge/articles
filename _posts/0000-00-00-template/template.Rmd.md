@@ -5,7 +5,6 @@ description: |
 author:
   - name: Ed Kim
     url: https://edonedge.github.io/
-date: 11-26-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -21,5 +20,5 @@ Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzkyNjExOV19
+eyJoaXN0b3J5IjpbNTkzNDIyNjg3XX0=
 -->
