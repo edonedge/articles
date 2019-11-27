@@ -25,5 +25,13 @@ reading what we have to say!</description>
       <guid>https://edonedge.github.io/articles/posts/welcome</guid>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
     </item>
+    <item>
+      <title>템플릿이 이 정도는 되어야지</title>
+      <dc:creator>Ed Kim</dc:creator>
+      <link>https://edonedge.github.io/articles/posts/0000-00-00-template</link>
+      <description>템플릿은 이 정도는 되어야 한다니까.</description>
+      <guid>https://edonedge.github.io/articles/posts/0000-00-00-template</guid>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
