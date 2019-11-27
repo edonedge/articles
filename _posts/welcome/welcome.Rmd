@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Ed on Edge"
 description: |
-  Welcome to our new blogmy, Ed on Edge. We hope you enjoy 
+  Welcome to  new blog, Ed on Edge. We hope you enjoy 
   reading what we have to say!
 author:
   - name: Nora Jones 
@@ -25,5 +25,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY0NzU2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE0MzkzNjA3NzBdfQ==
 -->
