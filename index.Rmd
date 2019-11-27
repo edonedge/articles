@@ -1,5 +1,0 @@
----
-title: "To relax at the cutting edge"
-site: distill::distill_website
-listing: posts
----
