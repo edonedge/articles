@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://edonedge.github.io/articles/about.html</loc>
-    <lastmod>2019-11-27T15:26:27-08:00</lastmod>
+    <lastmod>2019-11-27T15:32:24-08:00</lastmod>
   </url>
   <url>
     <loc>https://edonedge.github.io/articles/</loc>
@@ -15,5 +15,9 @@
   <url>
     <loc>https://edonedge.github.io/articles/posts/welcome/</loc>
     <lastmod>2019-11-26T17:11:09-08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://edonedge.github.io/articles/posts/0000-00-00-template/</loc>
+    <lastmod>2019-11-26T22:37:31-08:00</lastmod>
   </url>
 </urlset>
