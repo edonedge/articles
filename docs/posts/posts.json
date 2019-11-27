@@ -2,7 +2,7 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome to Ed on Edge",
-    "description": "Welcome to our new blog, Ed on Edge. We hope you enjoy \nreading what we have to say!",
+    "description": "Welcome to  new blog, Ed on Edge. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
         "name": "Nora Jones",
@@ -12,6 +12,6 @@
     "date": "2019-11-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-26T15:48:53-08:00"
+    "last_modified": "2019-11-26T17:11:09-08:00"
   }
 ]
