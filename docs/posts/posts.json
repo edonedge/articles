@@ -28,20 +28,5 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-11-26T17:11:09-08:00"
-  },
-  {
-    "path": "posts/0000-00-00-template/",
-    "title": "Algebra",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Ed Kim",
-        "url": "https://edonedge.github.io/"
-      }
-    ],
-    "date": "2019-11-25",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-26T21:52:49-08:00"
   }
 ]

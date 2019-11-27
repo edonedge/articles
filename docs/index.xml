@@ -25,13 +25,5 @@ reading what we have to say!</description>
       <guid>https://edonedge.github.io/articles/posts/welcome</guid>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
     </item>
-    <item>
-      <title>Algebra</title>
-      <dc:creator>Ed Kim</dc:creator>
-      <link>https://edonedge.github.io/articles/posts/0000-00-00-template</link>
-      <description>A short description of the post.</description>
-      <guid>https://edonedge.github.io/articles/posts/0000-00-00-template</guid>
-      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
-    </item>
   </channel>
 </rss>
