@@ -28,5 +28,20 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-11-26T17:11:09-08:00"
+  },
+  {
+    "path": "posts/2019-11-27-second-test/",
+    "title": "Second Test",
+    "description": "템플릿은 이 정도는 되어야 한다니까.",
+    "author": [
+      {
+        "name": "Ed Kim",
+        "url": "https://edonedge.github.io/"
+      }
+    ],
+    "date": "2019-11-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-27T21:20:51-08:00"
   }
 ]
