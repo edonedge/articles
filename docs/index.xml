@@ -7,7 +7,15 @@
     <description>Articles of Ed who loves math, data science, machine learning, and tesla
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Algebra2</title>
+      <dc:creator>Ed Kim</dc:creator>
+      <link>https://edonedge.github.io/articles/posts/2019-11-27-algebra</link>
+      <description>A short description of the post.</description>
+      <guid>https://edonedge.github.io/articles/posts/2019-11-27-algebra</guid>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Tesla Maintenance</title>
       <dc:creator>Nora Jones</dc:creator>
