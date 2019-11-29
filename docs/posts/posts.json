@@ -2,7 +2,7 @@
   {
     "path": "posts/2019-11-27-algebra/",
     "title": "대수학 (Algebra)",
-    "description": "사칙연산 익숙해 질 때 즈음 학교에서는 대수학을 가르치기 시작한다^[많은 곳에서는 대수학이라는 이름을 빼고 가르친다. 이름이 너무 거창해서 그런가보다] 대수학도 나중에 정리되면서 큰 분야가 된 것이지, 시작은 숫자의 세상에서 규칙을 찾기 위한 도구 중의 하나였다.",
+    "description": "더하기/빼기/곱하기/나누기가 익숙해 질 때 즈음 학교에서는 대수학을 가르치기 시작한다. 많은 곳에서는 대수학이라는 이름을 빼고 가르친다. 이름이 너무 거창해서 그런가보다. 하지만 대수학도 나중에 정리되면서 큰 분야가 된 것이지, 그 시작은 숫자의 세상에서 규칙을 찾기 위한 여러 방법 중의 하나였을 뿐이다.",
     "author": [
       {
         "name": "Ed Kim",
@@ -12,21 +12,6 @@
     "date": "2019-11-27",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-28T12:26:29-08:00"
-  },
-  {
-    "path": "posts/welcome/",
-    "title": "Welcome to Ed on Edge",
-    "description": "Welcome to  new blog, Ed on Edge. We hope you enjoy \nreading what we have to say!",
-    "author": [
-      {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2019-11-26",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-26T17:11:09-08:00"
+    "last_modified": "2019-11-29T01:15:17-08:00"
   }
 ]
