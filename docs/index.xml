@@ -7,7 +7,15 @@
     <description>Articles of Ed who loves math, data science, machine learning, and tesla
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>1029 magic trick</title>
+      <dc:creator>Ed Kim</dc:creator>
+      <link>https://edonedge.github.io/articles/posts/2019-11-29-1089-magic-trick</link>
+      <description>A short description of the post.</description>
+      <guid>https://edonedge.github.io/articles/posts/2019-11-29-1089-magic-trick</guid>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>대수학 (Algebra)</title>
       <dc:creator>Ed Kim</dc:creator>
